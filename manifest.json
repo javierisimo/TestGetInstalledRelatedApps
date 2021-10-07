@@ -33,7 +33,7 @@
   "theme_color": "#3f51b5",
   "related_applications": [{
     "platform": "play",
-    "id": "com.principal.dx.cuprumapp.qa",
+    "id": "com.principal.dx.cuprumapp.qa-debug",
     "url": "https://github.com/javierisimo/TestGetInstalledRelatedApps"
   }]
 }
